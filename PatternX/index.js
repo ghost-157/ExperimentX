@@ -1,2 +1,2 @@
-const patternX = require('./PatternX')
+const patternX = require('./SingleTonPattern')
 module.exports = patternX
